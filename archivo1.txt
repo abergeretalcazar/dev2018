@@ -5,3 +5,12 @@ Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostra
 Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final.
 
 Aunque no posee actualmente fuentes para justificar sus hipótesis, el profesor de filología clásica Richard McClintock asegura que su uso se remonta a los impresores de comienzos del siglo XVI.1​ Su uso en algunos editores de texto muy conocidos en la actualidad ha dado al texto.
+
+Crear un repositorio con el nombre curso_desarrollo_web
+Crear dos archivos de texto con el nombre archivo1.txt y archivo2.txt
+Agregar 2 párrafos de contenido a cada archivo (ej. utilizar lorem)
+Agregar los archivos a nuestro proyecto git
+
+La decisión de mantenerla en marzo fue unánime entre los consejeros de la entidad y se enmarca dentro de un ciclo de política monetaria expansiva que analistas estiman continuaría para afianzar el repunte de la actividad local.
+
+Ante la división interna en el greamialismo respecto a si los adolescentes de entre 14 y 18 años podrán hacer su cambio de sexo registral, desde el Ministerio de Justicia elaboraron una propuesta que esperan les permita resolver la disputa.
