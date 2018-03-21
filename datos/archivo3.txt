@@ -1,4 +1,4 @@
 Crear un repositorio con el nombre curso_desarrollo_web
 Crear dos archivos de texto con el nombre archivo1.txt y archivo2.txt
 Agregar 2 párrafos de contenido a cada archivo (ej. utilizar lorem)
-Agregar los archivos a nuestro proyecto git
+Agregar los .....
